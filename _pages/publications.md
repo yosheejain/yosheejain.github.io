@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -13,7 +13,7 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 **Y. Jain**, K. Cunningham. "[How Computing Educators Identify Programming Plans: State of the Art, Challenges, and Opportunities]." In
 CHI Conference on Human Factors in Computing Systems **(CHI 2024)**. **(Under Submission)**
