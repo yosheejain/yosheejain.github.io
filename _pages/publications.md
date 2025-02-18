@@ -25,7 +25,7 @@ author_profile: true
 
 K. Saha, **Y. Jain**, C. Liu, S. Kaliappan, R. Karkar. [AI vs Humans for Online Support: Comparing the Language of Responses from LLMs and Online Communities of Alzheimer’s Disease.](https://doi.org/10.1145/3709366). In Proceedings of the ACM Transactions on Computing for Healthcare. **(ACM HEALTH '24)**.
 
-**Y. Jain**. [Towards Identifying Domain-Specific Programming Plans at Scale: Needs, Challenges, and Solutions](https://doi.org/10.1145/3678884.3681916). Bachelor's Thesis **(UIUC '24)**.
+**Y. Jain**. [Towards Identifying Domain-Specific Programming Plans at Scale: Needs, Challenges, and Solutions](https://github.com/yosheejain/yosheejain.github.io/blob/c6d058951322e3051680ef59c196c07a9a87eac6/PDFs/Jain_CS499_Undergraduate_Thesis.pdf). Bachelor's Thesis **(UIUC '24)**.
 
 C. Lambert, **Y. Jain**, K. Saha, E. Chandrasekharan. [Investigating How Gilds Were Employed On Reddit](https://doi.org/10.1145/3678884.3681916). In Proceedings of the 2024 ACM Conference on Computer-Supported Cooperative Work and Social Computing **(CSCW '24)**.
 
