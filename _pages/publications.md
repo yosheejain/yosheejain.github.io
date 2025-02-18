@@ -17,7 +17,7 @@ author_profile: true
 
 <h2>2025</h2>
 
-**Y. Jain***, M. Demirtas*, K. Cunningham. [PLAID: Supporting Computing Instructors to Identify Domain-Specific Programming Plans at Scale.](https://arxiv.org/abs/2502.10618). In Proceedings of the 2025 ACM CHI Conference on Human Factors in Computing Systems. **(CHI '25)**.
+**Y. Jain**\*, M. Demirtas\*, K. Cunningham. [PLAID: Supporting Computing Instructors to Identify Domain-Specific Programming Plans at Scale.](https://arxiv.org/abs/2502.10618). In Proceedings of the 2025 ACM CHI Conference on Human Factors in Computing Systems. **(CHI '25)**.
 
 **Y. Jain**, John Hollander, Amber He, Sunny Tang, Jionghao Lin, Liang Zhang, John Sabatini. [Exploring the Capabilities of Large Language Models for Reading Comprehension Question Generation (Forthcoming).](). In Proceedings of the 2025 International Conference on Human-Computer Interaction **(HCII '25)**.
 
